@@ -1,39 +1,89 @@
-# Consumer-Goods-SQL-Business-Insights
-SQL-based Business Insights Project analyzing sales, product growth, customer discounts, and channel performance.
+# 📊 Consumer Goods SQL Business Insights Project
 
-📊 Consumer Goods SQL Business Insights Project
+## 📌 Project Overview
 
-📌 Project Overview
-This project analyzes sales and product data for Atliq Hardwares (fictional company) to generate actionable business insights using SQL.
-The objective was to solve 10 real-world ad-hoc business requests and transform raw data into meaningful insights for management decision-making.
+This project analyzes business data for **Atliq Hardwares** (a fictional
+computer hardware company) to generate actionable insights for
+management decision-making.
 
-🛠 Tools Used
-SQL (MySQL)
-Power BI
-Data Modeling
-Business Analysis
+The objective was to solve **10 real-world ad-hoc business requests**
+using SQL and transform raw transactional data into meaningful business
+insights supported by visualizations.
 
-📂 Dataset
-The dataset includes:
-Sales transactions (FY2020 & FY2021)
-Product details
-Customer details
-Manufacturing cost
-Pricing data
+This project simulates a real-world scenario where leadership requires
+quick and structured insights to support strategic decisions.
 
-📈 Key Business Insights
-36% increase in product portfolio in FY2021
-Accessories segment had highest product expansion
-Retailers contributed 73% of total revenue
-COVID impact visible in Q2 2020 with strong Q4 recovery
-Identified top-performing products across divisions
+------------------------------------------------------------------------
 
-🎯 Skills Demonstrated
-Complex SQL querying
-Aggregations & Joins
-Trend & Growth Analysis
-Business Problem Solving
-Data Storytelling
+## 🎯 Business Objective
 
-📌 Conclusion
-This project demonstrates how SQL can be used not just for querying data, but for solving real business problems and driving strategic insights.
+The goal was to:
+
+-   Analyze sales performance\
+-   Measure product portfolio growth\
+-   Evaluate discount strategy\
+-   Identify top-performing segments and products\
+-   Understand channel contribution\
+-   Assess impact of external factors (e.g., COVID-19)
+
+------------------------------------------------------------------------
+
+## 🛠 Tools & Technologies Used
+
+-   **MySQL** -- Data extraction & querying\
+-   **Power BI** -- Data visualization\
+-   **Data Modeling** -- Relational schema understanding\
+-   **Business Analysis** -- Insight generation & storytelling
+
+------------------------------------------------------------------------
+
+## 📂 Dataset Description
+
+The dataset consists of:
+
+-   Sales data (FY 2020 & FY 2021)\
+-   Customer details\
+-   Product details\
+-   Manufacturing cost data\
+-   Pricing and discount information
+
+The data is structured using a relational schema with fact and dimension
+tables.
+
+------------------------------------------------------------------------
+
+## 📊 Key Business Insights
+
+-   📈 Product portfolio increased by **36% in FY2021**\
+-   🎧 Accessories segment showed the highest product expansion\
+-   🛒 Retailers contributed **73% of total revenue**\
+-   📉 Q2 FY2020 experienced a sales drop due to COVID-19\
+-   📈 Strong recovery observed in Q4 FY2020\
+-   🏆 Identified top revenue-driving products across divisions
+
+------------------------------------------------------------------------
+
+## 🧠 Skills Demonstrated
+
+-   Writing optimized SQL queries (Joins, Aggregations, Group By,
+    Subqueries)\
+-   Year-over-Year growth analysis\
+-   KPI development\
+-   Trend and seasonality analysis\
+-   Business interpretation of structured data\
+-   Data storytelling through visualization
+
+------------------------------------------------------------------------
+
+## 📌 Conclusion
+
+This project demonstrates how SQL can be used not just for querying
+data, but for solving real business problems and supporting strategic
+decisions.
+
+------------------------------------------------------------------------
+
+## 🔗 Connect With Me
+
+📧 Email: aryanpattnaik01@gmail.com\
+🔗 LinkedIn: https://www.linkedin.com/in/aryanpattnaik
